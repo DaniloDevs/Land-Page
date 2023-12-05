@@ -8,9 +8,6 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        'body': ['"IBM Plex Sans"']
-      },
     },
   },
   plugins: [],
